@@ -5,4 +5,3 @@ Group Members:
 * Panayioti Kolonis
   
 Project Chosen: Project A, CheckYourCar
-Sprint 1
